@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidProgramming/LifePlusConnect-master/app/src/main/res/drawable/ic_music.xml" value="0.2598958333333333" />
+        <entry key="..\:/AndroidProgramming/LifePlusConnect-master/app/src/main/res/layout/activity_music.xml" value="0.24375" />
+        <entry key="..\:/Users/audfb/AndroidStudioProjects/LifePlusConnect/app/src/main/res/drawable/ic_map.xml" value="0.14791666666666667" />
+        <entry key="..\:/Users/audfb/AndroidStudioProjects/LifePlusConnect/app/src/main/res/layout/activity_calorie.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/audfb/AndroidStudioProjects/LifePlusConnect/app/src/main/res/layout/activity_main.xml" value="0.2390625" />
+        <entry key="..\:/Users/audfb/AndroidStudioProjects/LifePlusConnect/app/src/main/res/layout/activity_map.xml" value="0.4" />
+        <entry key="..\:/Users/audfb/AndroidStudioProjects/LifePlusConnect/app/src/main/res/layout/activity_music.xml" value="0.1296875" />
+        <entry key="..\:/Users/audfb/AndroidStudioProjects/LifePlusConnect/app/src/main/res/layout/activity_weather.xml" value="0.1296875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
