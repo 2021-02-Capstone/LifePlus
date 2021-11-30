@@ -5,7 +5,6 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
-import android.widget.Button;
 import android.widget.ImageButton;
 
 public class MainActivity extends AppCompatActivity {
@@ -50,7 +49,7 @@ public class MainActivity extends AppCompatActivity {
         calorie.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent=new Intent(getApplicationContext(),CalorieActivity.class);//weather으로 이동
+                Intent intent=new Intent(getApplicationContext(), CalActivity.class);//weather으로 이동
                 startActivity(intent);//액티비티 이동
             }
         });
