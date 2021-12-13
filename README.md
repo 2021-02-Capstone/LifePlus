@@ -8,7 +8,7 @@
 
 
 ### How To Launch
-** Run in Android Studio **
+**Run in Android Studio**
 ```markdown
 1. Run Android Studio (Virtualization should be on)
 2. Set AVD to 'Pixel 3 API 30'
