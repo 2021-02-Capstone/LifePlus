@@ -2,8 +2,10 @@
 2021-02 Capstone Design I Project
 - Development Tool : Android Studio (with AVD Simulator)
 
-**Introduce LIFEPLUS+ System.**
-PLUS+ Convenience to your Daily LIFE!
+
+## Introduce LIFEPLUS+ System.
+**PLUS+ Convenience to your Daily LIFE!**
+
 
 ### How To Launch
 ** Run in Android Studio **
